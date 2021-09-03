@@ -27,3 +27,11 @@ footer{
     font-family: "Helvetica"; 
     text-align: center;
         } 
+
+#price{
+    text-align: center;
+}
+
+.btn{
+    color: lightblue;
+}
